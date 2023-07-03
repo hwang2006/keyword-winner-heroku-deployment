@@ -3,7 +3,7 @@ This repository serves as a step-by-step guide for connecting your GitHub reposi
 
 ## Creating a repository on GitHub
 1. log on to GitHub, create a repository, and copy the URL.
-2. upload to the GitHub repository.
+2. upload your app to the GitHub repository.
 ```
 $ ls -al ./keyword-flask
 total 49
