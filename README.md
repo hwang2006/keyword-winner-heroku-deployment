@@ -28,4 +28,11 @@ $ git remote add origin https://github.com/hwang2006/keyword-winner-heroku-deplo
 $ git push -u origin main
 ```
 ## Creating a Heroku project 
+```
+$ heroku login
+$ heroku create keyword-winner # heroku create PROJECT-NAME and PROJECT-NAME should be unique
+```
+Now, if you go to heroku.com and maek sure that the project named "keyword-winner" has been created.
 
+
+```
