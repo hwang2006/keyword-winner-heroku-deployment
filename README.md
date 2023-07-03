@@ -51,4 +51,5 @@ origin  https://github.com/hwang2006/keyword-winner-heroku-deployment.git (push)
 You have two options to deploy your app. 
 - Enable automatic deploys from GitHub: when the GitHub project is updated, it will be automatically updated.
 - Deploy a GitHub branch: manually update by pressing the 'Deploy Branch' button.
-Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. That's it!!
+
+### Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. That's it!!
