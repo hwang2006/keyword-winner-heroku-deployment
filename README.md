@@ -55,5 +55,5 @@ You have two options to deploy your app.
 Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. Once the app has been deployed successfully, you can access it through the URL that the Heroku platform has assigned based on the project name that you have created, which looks like "https://PROJECT-NAME-xxxxxxx.herokuapp.com".
 
 ## Reference
-Here is the keyword-winner app deployed on Heroku that you may want to visit, where you can input two keywords for the comparision of google search result numbers:
+Here is the [keyword-winner app deployed on Heroku](https://keyword-winner-39a53d276a1b.herokuapp.com/) that you may want to visit, where you can input two keywords for the comparision of google search result numbers:
 - [keyword-winner app](https://keyword-winner-39a53d276a1b.herokuapp.com/)
