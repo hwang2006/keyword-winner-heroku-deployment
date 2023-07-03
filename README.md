@@ -2,11 +2,30 @@
 This repository serves as a step-by-step guide for connecting your GitHub repository to Heroku, enabling seamless app deployment on the Heroku platform. Heroku is a cloud platform-as-a-service (PaaS) that allows developers to build, deploy, and manage web applications. It provides a streamlined workflow for application deployment, making it easier for developers to focus on coding rather than managing infrastructure.
 
 ## Creating a repository on GitHub
-1. Log on to GitHub, create a repository, and copy the URL.
-2. Upload to the GitHub repository.
-- git init
-- git commit -m "first commit"
-- git branch -M main
-- git remote add origin https://github.com/hwang2006/keyword-winner-heroku-deployment.git
-- git push -u origin main
+1. log on to GitHub, create a repository, and copy the URL.
+2. upload to the GitHub repository.
+```
+$ ls -al ./keyword-flask
+total 49
+drwxr-xr-x 1 quali 197121    0 Jul  3 12:40 ./
+drwxr-xr-x 1 quali 197121    0 Jul  3 12:24 ../
+drwxr-xr-x 1 quali 197121    0 Jul  3 13:09 .git/
+drwxr-xr-x 1 quali 197121    0 Jul  3 12:07 __pycache__/
+-rw-r--r-- 1 quali 197121  894 Jul  2 17:29 app.py
+-rw-r--r-- 1 quali 197121  148 Jul  1 19:47 Dockerfile
+-rw-r--r-- 1 quali 197121 1197 Jul  1 10:56 google_keyword.py
+-rw-r--r-- 1 quali 197121   21 Jun 25 16:39 Procfile
+-rw-r--r-- 1 quali 197121   21 Jul  3 12:00 README.md
+-rw-r--r-- 1 quali 197121  309 Jun 25 15:07 requirements.txt
+-rw-r--r-- 1 quali 197121   18 Jun 28 15:24 runtime.txt
+drwxr-xr-x 1 quali 197121    0 Jul  3 12:07 static/
+drwxr-xr-x 1 quali 197121    0 Jul  3 12:07 templates/
+
+$ git init
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin https://github.com/hwang2006/keyword-winner-heroku-deployment.git
+$ git push -u origin main
+```
+## Creating a Heroku project 
 
