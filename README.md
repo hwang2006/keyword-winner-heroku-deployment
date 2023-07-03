@@ -55,5 +55,5 @@ You have two options to deploy your app.
 Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. That's it!!
 
 ## Reference
-Here is the keyword-winner app deployed on Heroku that you may want to visit, where you can type two keywords for google search result numbers comparision:
+Here is the keyword-winner app deployed on Heroku that you may want to visit, where you can type two keywords for the comparision of google search result numbers:
 - [keyword-winner app](https://keyword-winner-39a53d276a1b.herokuapp.com/)
