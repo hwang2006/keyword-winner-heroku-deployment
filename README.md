@@ -36,8 +36,8 @@ Now, you go to heroku.com, making sure that the project named "keyword-winner" h
 
 ## Connecting Heroku to the GitHub repository
 1. go to the Heroku website and click the project that you have created.
-2. Click the following: (1) Deploy - (2) GitHub (Connect to GitHub) as for deployment method
-3. Type the name of GitHub repository (e.g., hwang2006/keyword-winner-heroku-deployment).
+2. click the following: (1) Deploy - (2) GitHub (Connect to GitHub) as for deployment method
+3. type the name of the GitHub repository (e.g., hwang2006/keyword-winner-heroku-deployment).
 Once connected successfully, you will see "GitHub Connected" in the deployment method.
 ```
 $ heroku git:remote -a keyword-winner # $ heroku git:remote -a PROJECT-NAME
