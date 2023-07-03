@@ -32,7 +32,8 @@ $ git push -u origin main
 $ heroku login
 $ heroku create keyword-winner # heroku create PROJECT-NAME and PROJECT-NAME should be unique
 ```
-Now, if you go to heroku.com and maek sure that the project named "keyword-winner" has been created.
+Now, you go to heroku.com, making sure that the project named "keyword-winner" has been created.
+
+## Connecting Heroku to the GitHub repository
 
 
-```
