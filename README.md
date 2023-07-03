@@ -53,3 +53,6 @@ You have two options to deploy your app.
 - Deploy a GitHub branch: manually update by pressing the 'Deploy Branch' button.
 
 Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. That's it!!
+
+Here is the keyword-winner app deployed on Heroku:
+- [keyword-winner](https://keyword-winner-39a53d276a1b.herokuapp.com/)
