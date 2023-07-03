@@ -35,5 +35,8 @@ $ heroku create keyword-winner # heroku create PROJECT-NAME and PROJECT-NAME sho
 Now, you go to heroku.com, making sure that the project named "keyword-winner" has been created.
 
 ## Connecting Heroku to the GitHub repository
+1. go to the Heroku website and click the project that you have created.
+2. Click the following: (1) Deploy - (2) Github (Connect to GitHub)
+3. Type the name of GitHub repository: hwang2006/keyword-winner-heroku-deployment
 
-
+## 
