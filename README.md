@@ -55,5 +55,5 @@ You have two options to deploy your app.
 Once the deployment is complete, you can confirm the deployed application by clicking the 'View' button, which will connect you to the deployed application. Once the app has been deployed successfully, you can access it through the URL that the Heroku platform has assigned based on the project name that you have created, which looks something like "https://PROJECT-NAME-xxxxxxx.herokuapp.com".
 
 ## Reference
-Here is the [keyword-winner app deployed on Heroku](https://keyword-winner-39a53d276a1b.herokuapp.com/) that enables you to compare the Google search result numbers for two keywords. You can simply enter two keywords (e.g., apple vs. banana, or 서울 vs. 부산) as inputs and see the comparison of their respective search result numbers:
+Here is the [keyword-winner app deployed on Heroku](https://keyword-winner-39a53d276a1b.herokuapp.com/) that enables you to compare the Google search result numbers for two keywords. You can simply enter two keywords (e.g., apple vs. banana, or 서울 vs. 부산) as inputs and observe which one wins in the search results:
 - [keyword-winner app](https://keyword-winner-39a53d276a1b.herokuapp.com/)
