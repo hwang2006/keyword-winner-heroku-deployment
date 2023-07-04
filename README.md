@@ -22,6 +22,7 @@ drwxr-xr-x 1 quali 197121    0 Jul  3 12:07 static/
 drwxr-xr-x 1 quali 197121    0 Jul  3 12:07 templates/
 
 $ git init
+$ git add .
 $ git commit -m "first commit"
 $ git branch -M main
 $ git remote add origin https://github.com/hwang2006/keyword-winner-heroku-deployment.git
